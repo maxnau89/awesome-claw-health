@@ -35,6 +35,7 @@ This list is intentionally broad around:
 
 ## Personal Health and Quantified Self
 
+- [maxnau89/openclaw-biohub](https://github.com/maxnau89/openclaw-biohub) `🦖⌚` - Self-hosted personal-health hub for OpenClaw — WHOOP, Oura, Fitbit, Apple Health, and Garmin adapters write to a source-agnostic SQLite layer that a Next.js dashboard and a wellness-coach skill both query.
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) `⌚` - Self-hosted platform to unify wearable health data through one AI-ready API.
 - [mrmujo/health_assistant](https://github.com/mrmujo/health_assistant) `⌚` - Personal health assistant centered on wearable data, health logging, and AI-assisted analysis.
 - [huifer/WellAlly-health](https://github.com/huifer/WellAlly-health) `⌚` - Claude-based healthcare assistant for symptom tracking, medication management, and medical-record workflows.
